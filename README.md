@@ -1,6 +1,6 @@
 # Cloud云教程
 
-##第一步：访问官网注册:  [点击访问](https://www.cloudesss.com)
+##第一步：访问官网注册:      [点击我访问官网](https://www.cloudesss.com)
 
 第二步：免费注册账号
 
