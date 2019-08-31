@@ -1,4 +1,4 @@
-# Cloud云教程
+# Cloud加速器
 
 ####第一步：访问官网注册:      [>>>>点我访问官网<<<<](https://www.cloudesss.com)
 
@@ -6,4 +6,4 @@
 
 ####第三步：根据教程完成配置
 
-####然后就可以用来访问谷歌学术，instagram,Yotubi脸书,Gmail和Whatsapp等,玩游戏也很顺畅；
+####然后就可以用来玩游戏啦！绝地求生国际服等，也可以访问谷歌查询学术资料，instagram,Yotubi脸书,Gmail和Whatsapp等；
